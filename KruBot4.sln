@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KruBot4", "KruBot4\KruBot4.csproj", "{6750989C-73AD-4CFE-A499-331C0C1ED82C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backend", "Backend\Backend.csproj", "{680C299C-62A7-456F-8430-AD7C7709C7AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6750989C-73AD-4CFE-A499-331C0C1ED82C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6750989C-73AD-4CFE-A499-331C0C1ED82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6750989C-73AD-4CFE-A499-331C0C1ED82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6750989C-73AD-4CFE-A499-331C0C1ED82C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680C299C-62A7-456F-8430-AD7C7709C7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680C299C-62A7-456F-8430-AD7C7709C7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680C299C-62A7-456F-8430-AD7C7709C7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680C299C-62A7-456F-8430-AD7C7709C7AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B89E831A-53DD-495F-91BE-3B9CC6D9E937}
+	EndGlobalSection
+EndGlobal
